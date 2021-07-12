@@ -1,0 +1,25 @@
+.Head1 {
+  text-align: center;
+  size: 100%;
+}
+.Head2 {
+  color: gray;
+}
+.edit {
+  width: 300px;
+}
+.edit1 {
+  font-size: 45px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+input {
+  text-align: center;
+  height: 40px;
+  width: 190px;
+  margin-right: 15px;
+}
+.button {
+  width: 100px;
+}
